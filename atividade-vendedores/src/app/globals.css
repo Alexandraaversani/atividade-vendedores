@@ -1,0 +1,10 @@
+:root {
+  --font-cormorant: 'Cormorant Garamond', serif;
+}
+
+body {
+  margin: 0;
+  font-family: var(--font-cormorant);
+  background-color: #f5f5f5;
+}
+
